@@ -2,7 +2,7 @@ build/
 out/
 *.o
 *.exe
-bulkren
-bulkren_tests
+/bulkren
+/bulkren_tests
 .vscode/
 .idea/
